@@ -1,2 +1,0 @@
-# ParentChildReactNative
-Created with CodeSandbox
